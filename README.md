@@ -1,3 +1,3 @@
 # vanti-assignment
-to start project : yarn start / npm start
-and access http://localhost:3000
+to start project : run yarn / npm install and then yarn start / npm start
+to access the app http://localhost:3000
